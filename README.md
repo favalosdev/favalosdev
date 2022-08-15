@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on finishing my Software Engineering degree.
-- 🌱 I’m currently learning Dart, Haskell, Chinese and TensorFlow.
+- 🔭 I’m currently working on finishing my Systems Engineering degree.
+- 🌱 I’m currently learning Dart, Haskell, Japanese, Russian, French and Competitive Programming techniques.
 - 👯 I’m looking to collaborate on interesting and cool open-source projects or startups. Bonus points if related to Stock Trading or Cryptocurrencies.
 - 🤔 I’m looking for help with creating an operating system from scratch and improving the performance of compilers.
 - 💬 Ask me about... anything! I'm a fast learner and a jack of all trades.
