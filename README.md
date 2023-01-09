@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on finishing my Systems Engineering degree, implementing my own flavour of Lisp in Haskell.
-- 🌱 I’m currently learning Haskell, French, Fundamentals of Quantum Computing, Game Theory and Competitive Programming techniques.
+- 🌱 I’m currently learning Haskell, Racket, French, Fundamentals of Quantum Computing, Game Theory and Competitive Programming techniques.
 - 👯 I’m looking to collaborate on interesting and cool open-source projects or startups. Bonus points if related to Stock Trading or Cryptocurrencies.
 - 🤔 I’m looking for help with creating an operating system from scratch and improving the performance of compilers.
 - 💬 Ask me about... anything! I'm a fast learner and a jack of all trades.
