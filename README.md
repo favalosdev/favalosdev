@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on finishing my Systems Engineering and Computing degree, implementing my own flavour of Lisp in Haskell and performing Data Analytics of Football data.
+- 🔭 I’m currently working on finishing my Systems Engineering and Computers degree, implementing my own flavour of Lisp in Haskell and performing Data Analytics of Football data.
 - 🌱 I’m currently learning Haskell, Racket, French, Fundamentals of Quantum Computing, Game Theory and Competitive Programming techniques.
 - 👯 I’m looking to collaborate on interesting and cool open-source projects or startups. Bonus points if related to Stock Trading or Cryptocurrencies.
 - 🤔 I’m looking to contribute to open source projects.
