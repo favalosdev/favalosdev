@@ -13,10 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 - 🔭 I’m currently bootstrapping my career on AI Safety, hoping to replicate some relevant ML papers
 - 🌱 I’m currently learning about Transformers, Mechanistic Interpretability, Scalable Oversight, Eliciting Latent Knowledge and Digital Sentience
 - 👯 I’m looking to collaborate on interesting projects in the area of AI Safety or just ML in general. Web development-wise, I'm looking for volunteers that can help me setting up the webpage for Effective Altruism Colombia
 - 💬 Ask me about... anything! I'm a fast learner and a jack of all trades. My areas of "expertise", though, are Deep Learning & Web Development
 - 📫 How to reach me: via e-mail (which is already listed on my GitHub profile).
 - ⚡ Fun fact: did you know that if we multiply the number of arms of all the people that live on Earth, the result would be 0?
+-->
+
+⚒️ UNDER CONSTRUCTION 🚧
