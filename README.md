@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **favalosdev/favalosdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### Hi there 👋
 
 - 🔭 I’m currently bootstrapping my career on AI Safety, hoping to replicate some relevant ML papers
 - 🌱 I’m currently learning about Transformers, Mechanistic Interpretability, Scalable Oversight, Eliciting Latent Knowledge and Digital Sentience
