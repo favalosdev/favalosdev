@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: did you know that if we multiply the number of arms of all the people that live on Earth, the result would be 0?
 -->
 
-⚒️ UNDER CONSTRUCTION 🚧
+Learning about the world
