@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
+Here is my [CV](https://github.com/favalosdev/CV)
+
 - 🔭 I’m currently bootstrapping my career on AI Safety, hoping to replicate some relevant ML papers
 - 🌱 I’m currently learning about Transformers, Mechanistic Interpretability, Scalable Oversight, Eliciting Latent Knowledge and Digital Sentience
 - 👯 I’m looking to collaborate on interesting projects in the area of AI Safety or just ML in general. Web development-wise, I'm looking for volunteers that can help me setting up the webpage for Effective Altruism Colombia
