@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-Here is my [CV](https://github.com/favalosdev/CV)
-
 - 🔭 Building foundational skills in meta-learning, time management, and goal-setting
 - 🌱 Learning about transformer models and ML interpretability
 - 👯 Open to collaborating on ML and AI safety projects - always excited to work with others!
