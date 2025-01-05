@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 👯 Open to collaborating on ML and AI safety projects - always excited to work with others!
 - 💬 Main skills: Machine Learning & Full-Stack Development, but always eager to learn new things
 - 📫 Reach me at fernandodev@protonmail.com
-- ⚡ Fun fact: Europe's largest forest is actually in South America - French Guiana is technically part of France!
+- ⚡ Fun fact: I'm half-Colombian, half-Peruvian
