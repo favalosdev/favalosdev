@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-- 🔭 Building foundational skills in meta-learning, time management, and goal-setting
+- 🔭 Building foundational skills in meta-learning, time management, leadership and goal-setting
 - 🌱 Learning about Reinforcement Learning, AI Governance and Cybersecurity
 - 👯 Open to collaborating on ML and AI safety projects - always excited to work with others!
 - 💬 Main skills: Machine Learning & Full-Stack Development, but always eager to learn new things
