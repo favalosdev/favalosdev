@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 👯 Open to collaborating on ML and AI safety projects - always excited to work with others!
 - 💬 Main skills: Machine Learning & Full-Stack Development, but always eager to learn new things
 - 📫 Reach me at fernandodev@protonmail.com
-- ⚡ Fun fact: I'm half-Colombian, half-Peruvian
+- ⚡ Fun fact: I'm a Colombian and Peruvian citizen
