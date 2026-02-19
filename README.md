@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm most interested in how complex behaviour emerges from simple rules.
+I'm most interested in the emergence of complex behaviour from simple rules.
