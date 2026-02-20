@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I'm most interested in the emergence of complex behaviour from simple rules.
 
-I'm currently learning C, C++ and Zig.
+I'm currently learning Zig. I'm comfortable working with Python, C, C++, Haskell and Rust.
