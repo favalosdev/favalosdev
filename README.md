@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 I'm most interested in the emergence of complex behaviour from simple rules.
 
-Comfortable working with Python, C, C++, Haskell and Rust.
+Comfortable working with Python, C, C++, Haskell, LISP and Rust.
 
 Currently learning Zig. 
