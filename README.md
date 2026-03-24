@@ -19,4 +19,4 @@ I'm most interested in the emergence of complex behaviour from simple rules.
 
 Comfortable working with Python, C, C++, Haskell, LISP and Rust.
 
-Currently learning Zig, RL and Visual LLMs.
+Currently learning RL and Visual LLMs.
